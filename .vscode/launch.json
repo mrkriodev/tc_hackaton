@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Python: Debug Main",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/main.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: Debug Slither Proc",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/slither/slither_proc.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}

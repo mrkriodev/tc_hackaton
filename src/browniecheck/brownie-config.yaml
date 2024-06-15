@@ -1,0 +1,7 @@
+networks:
+  default: sibrnet
+  sibrnet:
+    fork: https://rpc.test.siberium.net
+    cmd_settings:
+      unlock:
+      - '0xbcaceb699c14856f59f3f5d85f63cf0dfd0cb9e4'

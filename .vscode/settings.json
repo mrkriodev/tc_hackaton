@@ -1,0 +1,20 @@
+{
+    "redhat.telemetry.enabled": false,
+    "git.autofetch": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "codeium.enableConfig": {
+      "*": true,
+      "properties": true
+    },
+    "python.venvPath": "${workspaceFolder}/.venv",
+    "python.pythonPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+    "python.autoComplete.addBrackets": true,
+    "python.autoComplete.addCallParenthesis": true,
+    "python.autoComplete.addImportStatement": true,
+    "python.autoComplete.addQuotes": true,
+    "python.autoComplete.showAdvancedMembers": true,
+    "python.autoComplete.showAdvancedMembersOnlyInFunctionContext": false,
+    "python.analysis.completeFunctionParens": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true,
+  }
